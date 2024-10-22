@@ -109,7 +109,7 @@ The Turtle Race project is an interactive game where users can place bets on the
 - Math
 
 
-Screenshots/MileConverterSS.png
+
 
 
 
